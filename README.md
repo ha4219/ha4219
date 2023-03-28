@@ -1,4 +1,4 @@
-## [jeongdongha]((https://ha4219.github.io/))
+## [jeongdongha](https://ha4219.github.io/)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jeongdongha)](https://solved.ac/jeongdongha)<br/>
 
